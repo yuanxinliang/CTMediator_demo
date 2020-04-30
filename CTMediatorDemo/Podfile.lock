@@ -1,0 +1,30 @@
+PODS:
+  - CTMediator (29)
+  - XLLinkmanComponent (0.1.0):
+    - CTMediator
+  - XLMainComponent (0.1.0):
+    - CTMediator
+    - XLLinkmanComponent
+
+DEPENDENCIES:
+  - XLLinkmanComponent (from `../XLLinkmanComponent`)
+  - XLMainComponent (from `../XLMainComponent`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - CTMediator
+
+EXTERNAL SOURCES:
+  XLLinkmanComponent:
+    :path: "../XLLinkmanComponent"
+  XLMainComponent:
+    :path: "../XLMainComponent"
+
+SPEC CHECKSUMS:
+  CTMediator: 69d19c35a6c37f44d047b82ebb822eadff46af84
+  XLLinkmanComponent: 39c91c8c96a060df195ec4eb0eb465cfacc4aa20
+  XLMainComponent: 2913a34a840d374e58ef44deabf4e04b5c81aab2
+
+PODFILE CHECKSUM: 2c928faf25654fe99e514ebc12bc292e20db43a9
+
+COCOAPODS: 1.8.4

@@ -1,0 +1,29 @@
+{
+  "name": "XLMainComponent",
+  "version": "0.1.0",
+  "summary": "A short description of XLMainComponent.",
+  "homepage": "https://github.com/yuanxinliang2014/XLMainComponent",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yuanxinliang2014": "yuanxinliang@jd.com"
+  },
+  "source": {
+    "git": "https://github.com/yuanxinliang2014/XLMainComponent.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XLMainComponent/Classes/**/*",
+  "dependencies": {
+    "CTMediator": [
+
+    ],
+    "XLLinkmanComponent": [
+
+    ]
+  }
+}

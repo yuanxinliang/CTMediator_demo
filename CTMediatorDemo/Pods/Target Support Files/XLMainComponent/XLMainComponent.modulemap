@@ -1,0 +1,6 @@
+framework module XLMainComponent {
+  umbrella header "XLMainComponent-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,11 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '10.0'
+
+target 'CTMediatorDemo' do
+
+  use_frameworks!
+  pod 'XLMainComponent', :path => '../XLMainComponent'
+  pod 'XLLinkmanComponent', :path => '../XLLinkmanComponent'
+#  pod 'XLMeComponent', :path => '../XLMeComponent'
+
+end

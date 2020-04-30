@@ -1,0 +1,22 @@
+{
+  "name": "XLMeComponent",
+  "version": "0.1.0",
+  "summary": "A short description of XLMeComponent.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yuanxinliang2014/XLMeComponent",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yuanxinliang2014": "yuanxinliang@jd.com"
+  },
+  "source": {
+    "git": "https://github.com/yuanxinliang2014/XLMeComponent.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XLMeComponent/Classes/**/*"
+}
